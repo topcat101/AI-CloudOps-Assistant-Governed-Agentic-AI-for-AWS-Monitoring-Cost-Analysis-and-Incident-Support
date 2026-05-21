@@ -1,3 +1,5 @@
+This is a project that I am planning on using in the future, not just yet.
+
 Project idea: Secure Agentic AI Operations Platform
 
 Build an internal AI assistant that helps cloud/platform teams investigate issues, understand AWS costs, query documentation, and recommend safe remediation steps.
